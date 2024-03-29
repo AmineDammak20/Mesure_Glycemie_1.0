@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dammak_Mohamed_Amine_Mesure_Glycemie</string>
+    <string name="text">Mesure de niveau de \n glycémie</string>
+    <string name="tvAgetext">Votre âge :</string>
+    <string name="maxAge">120</string>
+    <string name="TvJeunezText">Est-ce que vous jeûnez ?</string>
+    <string name="ouiText">Oui</string>
+    <string name="nonText">Non</string>
+    <string name="hintMesure">Valeur mesurée (en mmol/l)</string>
+    <string name="consulterText">Consulter</string>
+</resources>
